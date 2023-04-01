@@ -22,6 +22,17 @@ As seguintes condicionais são utilizadas no código:
 
 O código também utiliza a biblioteca `Servo` e `LiquidCrystal` para controlar o servo motor e o display LCD, respectivamente.
 
+## Componentes
+
+Nome      | Qntd       | Componentes
+--------- | ------     | ------ 
+U1	      | 1          | Arduino UNO R3
+SEN1      |  1         | Sensor de umidade do solo
+R1R3      | 2          | 113 Ω Resistor
+D1 | 1       | RGB LED
+SERVO1 | 1       | Posicional Micro servo
+U2 | 1       | LCD 16 x 2
+R4 | 1 | 1kΩ Resistor
 
 
 ## Como usar o sistema de irrigação automática com Arduino
