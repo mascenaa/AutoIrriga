@@ -3,6 +3,12 @@ Este é um projeto de irrigação utilizando Arduino, que utiliza um sensor de u
 
 A automação da irrigação com Arduino oferece muitas vantagens em relação à irrigação manual. Em primeiro lugar, a automação garante que as plantas recebam a quantidade certa de água, o que é essencial para a saúde e o crescimento adequado das plantas. Além disso, a automação permite que a irrigação seja feita de forma mais eficiente, economizando água e reduzindo o desperdício. A automação também pode ser programada para funcionar em horários específicos ou em intervalos regulares, o que ajuda a manter um cronograma consistente e a evitar a irrigação excessiva ou insuficiente. Por fim, a automação da irrigação com Arduino pode ser integrada a outros sistemas de automação em casa ou no jardim, permitindo que os usuários controlem várias funções com um único dispositivo.
 
+# Integrantes
+ @felpslira https://github.com/Felpslira
+ @Eshinha https://github.com/Eshinha
+ @martz3 https://github.com/martz3
+ 
+
 ## Funcionamento detalhado
 
 O código apresentado possui as seguintes variáveis:
