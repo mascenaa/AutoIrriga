@@ -6,7 +6,7 @@ A automação da irrigação com Arduino oferece muitas vantagens em relação �
 # Integrantes
 - [@felpslira](https://github.com/Felpslira)
 - [@Eshinha](https://github.com/Eshinha)
-- [@martz3](https://github.com/martz3)
+- [@Murakami1410](https://github.com/Murakami1410)
  
 
 ## Funcionamento detalhado
